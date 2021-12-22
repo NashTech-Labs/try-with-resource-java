@@ -1,6 +1,8 @@
 # User-specific stuff
-.idea/*
-.target/*
-.target
-.idea
+
+
+./idea
+/target
+target/
+/.bsp
 
