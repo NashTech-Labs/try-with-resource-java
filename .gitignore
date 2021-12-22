@@ -5,4 +5,5 @@
 /target
 target/
 /.bsp
-
+/.idea
+/target
